@@ -1,0 +1,6 @@
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\ASUS\Downloads\Petunjuk djual\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
