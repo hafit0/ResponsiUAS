@@ -81,7 +81,7 @@ namespace ProjectPenjualan
 
             // PERINTAH: lengkapi kode untuk menghapus penjualan dari dalam collection
             bool ketemu = true;
-            Console.WriteLine("Hapus Data Penjuala\n");
+            Console.WriteLine("Hapus Data Penjualan\n");
             Console.Write("Nota: ");
             string nota = Console.ReadLine();
             for (int i = 0; i < daftarPenjualan.Count; i++)
